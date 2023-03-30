@@ -1,0 +1,1 @@
+python3.10 -m pywebio -H localhost -P 8080 app:main
