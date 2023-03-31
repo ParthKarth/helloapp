@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 pywebio
-=======
-pywebio
->>>>>>> Stashed changes
